@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransferToPC</string>
+    <string name="Back">Back</string>
+    <string name="Next">Next</string>
+    <string name="IP_Adress">IP Adress</string>
+
+</resources>
